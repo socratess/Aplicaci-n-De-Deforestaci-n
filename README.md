@@ -71,20 +71,3 @@ Este proyecto es una aplicación que permite gestionar áreas críticas, evaluac
 
 1. Accede a la aplicación a través de tu navegador en [http://localhost:3000](http://localhost:3000).
 2. Utiliza las diferentes secciones de la aplicación para gestionar áreas críticas, evaluaciones ferroviarias y visualizar datos de deforestación.
-
-## Contribución
-
-1. Haz un fork del repositorio.
-2. Crea una rama para tus cambios:
-   ```bash
-   git checkout -b feature/nueva-funcionalidad
-   ```
-3. Realiza tus cambios y haz commit:
-   ```bash
-   git commit -m "Agregada nueva funcionalidad"
-   ```
-4. Sube tus cambios al repositorio remoto:
-   ```bash
-   git push origin feature/nueva-funcionalidad
-   ```
-5. Abre un Pull Request en el repositorio principal.
