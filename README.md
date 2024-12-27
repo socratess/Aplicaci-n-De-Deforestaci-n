@@ -45,7 +45,7 @@ Este proyecto es una aplicación que permite gestionar áreas críticas, evaluac
    ```
 2. Navega al directorio del backend:
    ```bash
-   cd backend
+   cd cruddeforestacionapi
    ```
 3. Configura el archivo `application.properties` con los detalles de tu base de datos.
 4. Ejecuta el backend:
@@ -56,7 +56,7 @@ Este proyecto es una aplicación que permite gestionar áreas críticas, evaluac
 ### Frontend
 1. Navega al directorio del frontend:
    ```bash
-   cd frontend
+   cd clientedeforestacionapi
    ```
 2. Instala las dependencias:
    ```bash
